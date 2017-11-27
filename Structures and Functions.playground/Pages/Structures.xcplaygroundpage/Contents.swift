@@ -29,6 +29,10 @@ import Foundation
 
 // Define the structure here
 
+var x : Double = 3.0
+var y: 
+
+
 /*:
  
  Now, use the newly defined structure to create points at (0, 0) and (3, 4):
